@@ -14,8 +14,6 @@ public class Developer extends Person{
         this.languageList=languageList; 
     }
 	
-	
-
 	@Override
 	public int getSalary()    { 
         return this.base +2000; 
